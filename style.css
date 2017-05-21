@@ -1,0 +1,17 @@
+/*
+ Theme Name:   UnderStrap Child with Auto Load Next Post Support
+ Theme URI:    https://www.understrap.com
+ Description:  UnderStrap Child Theme with Auto Load Next Post Support
+ Author:       Holger Koenemann
+ Author URI:   https://autoloadnextpost.com
+ Template:     understrap
+ Version:      1.0.0
+ License:      Commercial
+ Text Domain:  understrap-child-alnp
+ Tags: one-column, custom-menu, featured-images, theme-options, translation-ready, alnp-ready
+*/
+
+hr.post-divider,
+hr.alnp-post-divider {
+  display: none;
+}
